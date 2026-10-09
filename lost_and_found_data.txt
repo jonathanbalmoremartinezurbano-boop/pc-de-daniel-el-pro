@@ -1,0 +1,5 @@
+/media/fuse/drivefs-854ec798fec9682e3f7e3a3ecb22a424/root/grafico_comidas.png, /home/chronos/u-1374745df6f4fc8789d10a35638d5f32331be28f/MyFiles/Archivos recuperados de Google Drive/grafico_comidas.png
+/media/fuse/drivefs-854ec798fec9682e3f7e3a3ecb22a424/root/Hoja de cálculo sin título - Hoja 1.pdf, /home/chronos/u-1374745df6f4fc8789d10a35638d5f32331be28f/MyFiles/Archivos recuperados de Google Drive/Hoja de cálculo sin título - Hoja 1.pdf
+/media/fuse/drivefs-854ec798fec9682e3f7e3a3ecb22a424/root/screenshot_2026-08-14_17.32.32.png, /home/chronos/u-1374745df6f4fc8789d10a35638d5f32331be28f/MyFiles/Archivos recuperados de Google Drive/screenshot_2026-08-14_17.32.32.png
+/media/fuse/drivefs-854ec798fec9682e3f7e3a3ecb22a424/root/screenshot_2026-08-14_17.32.33.png, /home/chronos/u-1374745df6f4fc8789d10a35638d5f32331be28f/MyFiles/Archivos recuperados de Google Drive/screenshot_2026-08-14_17.32.33.png
+/media/fuse/drivefs-854ec798fec9682e3f7e3a3ecb22a424/root/Easyfun_en_50000_ld.exe, /home/chronos/u-1374745df6f4fc8789d10a35638d5f32331be28f/MyFiles/Archivos recuperados de Google Drive/Easyfun_en_50000_ld.exe
